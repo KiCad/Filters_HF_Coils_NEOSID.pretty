@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "Neosid, Triple Helical Filter, Type10E, through hole,")
   (tags "Neosid, Triple Helical Filter, Type10E, through hole,")
-  (fp_text reference T (at 0.0508 -7.74954) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Neosid_TripleHelicalFilter_Type10E (at 0.0508 -7.74954) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Neosid_TripleHelicalFilter_Type10E (at -0.14986 8.24992) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.14986 8.24992) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 11.30046 5.00126) (end 15.00124 5.00126) (layer F.SilkS) (width 0.15))
   (fp_line (start 5.00126 5.00126) (end 8.65124 5.00126) (layer F.SilkS) (width 0.15))

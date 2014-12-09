@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "Neosid, HF-Coil, Serie 7.1S, Spulenbausatz,")
   (tags "Neosid, HF-Coil, Serie 7.1S, Spulenbausatz,")
-  (fp_text reference L-T (at 0.20066 -6.20014) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Neosid_HF-Coil_Series7-1S (at 0.20066 -6.20014) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Neosid_HF-Coil_Series7-1S (at -0.65024 6.55066) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.65024 6.55066) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.75006 0) (end 0.89916 0) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.39954 -1.19888) (end 1.15062 -1.39954) (layer F.SilkS) (width 0.15))
